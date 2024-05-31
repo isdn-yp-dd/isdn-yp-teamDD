@@ -1,0 +1,18 @@
+*.txt
+*.xlsx
+*.pkl
+
+.vscode/
+__pycache__/
+data/
+excel/
+csv/
+asset/
+trash/
+test/
+dataset/
+model/
+
+# magic
+final/predict.py
+magic/
